@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @root0f
-- 👀 I’m interested in JavaScript,HTML,CSS
+- 👀 I’m interested in JavaScript,HTML,CSS,Python
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on the work in web-development
 - 📫 How to reach me mavlutov@bk.ru or mechasop@gmail.com or telegramm: @D_R_ROBOT
