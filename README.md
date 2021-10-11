@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @root0f
+- 👋 Hi, I’m Mavliutov Ilmir Ildarovich 
 - 👀 I’m interested in JavaScript,HTML,CSS,Python
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on the work in web-development
