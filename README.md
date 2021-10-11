@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mavliutov Ilmir Ildarovich 
-- 👀 I’m interested in JavaScript,HTML,CSS,Python
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in JavaScript,HTML,CSS,ReactJS
 - 💞️ I’m looking to collaborate on the work in web-development
 - 📫 How to reach me: mavlutov@bk.ru or mechasop@gmail.com or telegramm: @D_R_ROBOT
 
