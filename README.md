@@ -3,7 +3,7 @@
 - 📫 How to reach me: Email: mavlutov@bk.ru or mechasop@gmail.com, Telegram: [@D_R_ROBOT](https://t.me/D_R_ROBOT), LinkedIn: [Ilmir Mavlyutov](https://www.linkedin.com/in/ilmir-mavliutov-01265a20a/)
 - 🤓 CODEWARS: https://www.codewars.com/users/D_R_ROBOT
 - 👀 Hobbies other than coding: 🏋 weightlifting
-- - uses: Platane/snk@v3
+- uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
